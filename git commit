@@ -1,0 +1,15 @@
+[1mdiff --git a/readme.md b/readme.md[m
+[1mindex e69de29..0565a9b 100644[m
+[1m--- a/readme.md[m
+[1m+++ b/readme.md[m
+[36m@@ -0,0 +1,9 @@[m
+[32m+[m[32mSử dụng các thẻ Ul, li, ol để tạo danh sách sau[m
+[32m+[m[32mViệt Nam[m[41m [m
+[32m+[m[32m    1. Hà Nội[m
+[32m+[m[32m    2. Đã Nẵng[m[41m [m
+[32m+[m[32m    3. Sài Gòn[m
+[32m+[m[32mHoa kì[m
+[32m+[m[32m    1. New York[m
+[32m+[m[32m    2. LA[m
+[32m+[m[32m    3. CA[m
+\ No newline at end of file[m
